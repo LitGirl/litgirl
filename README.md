@@ -17,3 +17,4 @@ Si te interesa sumarte como colaborador/a al proyecto, ¡será una gran alegría
 ¡Estaré encantada de recibir tu feedback y/o contar contigo como colega!.
 
 Victoria Ramírez.
+Autora de LitGirl
