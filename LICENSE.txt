@@ -1,0 +1,60 @@
+## Spanish Version
+Condiciones y alcance de la Licencia
+
+El software LitGirl es propiedad de su autora:
+Victoria Ramírez
+dev.litgirl@ohyoo.net
+
+LA INSTALACIÓN Y/O EL USO DEL SOFTWARE LITGIRL INDICA SU ACEPTACIÓN AL SIGUIENTE ACUERDO DE LICENCIA:
+
+El software LitGirl es freeware y puede ser usado, copiado y cedido a terceros libremente bajo los siguientes términos:
+
+   1. Puede utilizar el software de forma gratuita para fines privados y profesionales. Sin embargo, no puede venderlo con fines de lucro y no puede incluir LitGirl en otros paquetes de software sin la confirmación de la autora.
+
+   2. Se le permite ofrecer el programa en un sitio web, siempre que sea de forma gratuita.
+
+   3. Para cualquier otra forma de publicación, es necesaria la autorización por escrito de la autora.
+
+   4. El software sigue siendo propiedad de la autora también en caso de difusión a terceros.
+
+   5.- El software, especialmente el nombre del software y el nombre de la autora, deben permanecer sin modificaciones.
+
+   6. ESTE SOFTWARE SE PROPORCIONA GRATUITAMENTE Y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA, INCLUYENDO, SIN LIMITACIÓN, LAS GARANTÍAS DE QUE ESTÁ LIBRE DE DEFECTOS, COMERCIALIZABLE, ADECUADO PARA UN FIN DETERMINADO O SIN VIOLACIÓN. USTED ASUME TODO EL RIESGO EN RELACIÓN CON LA CALIDAD Y EL RENDIMIENTO DEL SOFTWARE. EN CASO DE QUE EL SOFTWARE RESULTE DEFECTUOSO, USTED ASUME EL COSTO DE REPARACIÓN O CORRECCIÓN NECESARIOS.
+
+   7. EN NINGÚN CASO LA AUTORA, EL TITULAR DE LOS DERECHOS DE AUTOR O CUALQUIER OTRA PARTE QUE PUEDE REDISTRIBUIR EL SOFTWARE SERÁ RESPONSABLE ANTE USTED POR DAÑOS, INCLUYENDO DAÑOS GENERALES, ESPECIALES, INCIDENTALES O CONSECUENTES QUE SURJAN DEL USO O LA IMPOSIBILIDAD DE USAR EL SOFTWARE (INCLUYENDO , ENTRE OTROS, PÉRDIDA DE DATOS, DEVOLUCIÓN DE DATOS INEXACTOS, PÉRDIDA DE BENEFICIOS COMERCIALES, PÉRDIDA DE INFORMACIÓN COMERCIAL, INTERRUPCIONES COMERCIALES, PÉRDIDAS SUFRIDAS POR USTED O TERCEROS, O UNA FALLA DEL SOFTWARE PARA OPERAR CON CUALQUIER OTRO SOFTWARE) INCLUSO SI LA AUTORA, EL TITULAR DE LOS DERECHOS DE AUTOR U OTRA PARTE HA SIDO ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS.
+   8. LA VIOLACIÓN O LA NO ACEPTACIÓN DE CUALQUIERA DE LOS TÉRMINOS ANTERIORES DE FORMA INMEDIATA E INCONDICIONAL TERMINARÁ SU LICENCIA.
+
+
+Al descargar e instalar el software, acepta estar legalmente sujeto a estos términos de licencia.
+Ante cualquier controversia o ambigüedad entre las traducciones de la presente licencia a diferentes idiomas, SIEMPRE PREVALECERÁ LA VERSIÓN ORIGINAL EN ESPAÑOL.
+
+## English Version
+
+License Conditions
+
+The software LitGirl is property of the author:
+Victoria Ramírez
+dev.litgirl@ohyoo.net
+
+INSTALLATION OR USE OF THE LITGIRL SOFTWARE INDICATES YOUR ASSENT TO THE FOLLOWING LICENSE AGREEMENT:
+
+The software LitGirl is freeware and can be used freely, copied and given to third parties under the following terms:
+
+   1. You can use the software free of charge for private and professional purposes. You may not however sell it for profit and you may not bundle LitGirl in other software packages without affirmation of the author.
+
+   2. You are allowed to offer the program on a website that is free of charges.
+
+   3. For any other form of publication, the author’s written permission is necessary.
+
+   4. The software remains property of the author also in case of dissemination to third parties.
+
+   5. The software, especially the name of the software and the name of the author must remain unmodified.
+
+   6. THIS SOFTWARE IS PROVIDED FREE OF CHARGE AND ON AN «AS IS» BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED INCLUDING WITHOUT LIMITATION THE WARRANTIES THAT IT IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH YOU. SHOULD THE SOFTWARE PROVE DEFECTIVE, YOU ASSUME THE COST OF REPAIR, OR CORRECTION.
+
+   7. IN NO EVENT SHALL THE AUTHOR, COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY REDISTRIBUTE THE SOFTWARE BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE (INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA, DATA BEING RENDERED INACCURATE, LOSS OF BUSINESS PROFITS, LOSS OF BUSINESS INFORMATION, BUSINESS INTERRUPTIONS, LOSS SUSTAINED BY YOU OR THIRD PARTIES, OR A FAILURE OF THE SOFTWARE TO OPERATE WITH ANY OTHER SOFTWARE) EVEN IF THE AUTHOR, COPYRIGHT HOLDER, OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+   8. VIOLATION OR NON-ACCEPTANCE OF ANY OF THE ABOVE TERMS IMMEDIATELY AND UNCONDITIONALLY WILL TERMINATE YOUR LICENSE.
+
+
+By downloading and installing the software, you agree to be legally bound by these terms of license.
